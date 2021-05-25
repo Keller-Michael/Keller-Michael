@@ -11,6 +11,7 @@ The following projects are started by me or other people I highly value and ther
 * [ABAP development tools info hub](https://github.com/Keller-Michael/Eclipse_ADT_info_hub)
 * [ABAP Starter](https://github.com/Keller-Michael/ABAP_starter)
 * [abapGit](https://github.com/abapGit/abapGit)
+* [Clean ABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md)
 
 ### :link: Other profiles
 
