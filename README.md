@@ -21,4 +21,3 @@ I'm always happy to make contacts. So feel free to contact me on the following p
 * [SAP Community](https://people.sap.com/keller.m)
 * [Twitter](https://twitter.com/I_heart_ABAP)
 * [Instagram](https://www.instagram.com/i_heart_abap/)
-* [Xing](https://www.xing.com/profile/Michael_Keller79)
