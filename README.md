@@ -24,6 +24,6 @@ I'm always happy to make contacts. So feel free to contact me on the following p
 
 ### :bar_chart: Language overview
 
-Ok, not really varied :wink:
+Ok, no big surprise here on my GitHub profile :wink: But before starting with ABAP, I had serious fun with Basic, Turbo Pascal, Assembler, Visual Basic, Delphi, C, C# and Java.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keller-Michael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
