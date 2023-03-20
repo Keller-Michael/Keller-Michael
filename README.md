@@ -13,6 +13,7 @@ The following projects are started by me or other people I highly value and ther
 * [abapGit](https://github.com/abapGit/abapGit)
 * [Clean ABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md)
 * [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
+* [DSAG ADT Leitfaden](https://1dsag.github.io/ADT-Leitfaden/)
 
 ### :link: Other profiles
 
