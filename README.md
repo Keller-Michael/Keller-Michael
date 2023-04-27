@@ -8,21 +8,13 @@ Hello. My name is [Michael Keller](https://www.linkedin.com/in/michael-keller-ab
 
 The following projects are started by me or other people I highly value and therefore want to support:
 
-* [ABAP development tools info hub](https://github.com/Keller-Michael/Eclipse_ADT_info_hub)
-* [ABAP Starter](https://github.com/Keller-Michael/ABAP_starter)
-* [abapGit](https://github.com/abapGit/abapGit)
-* [Clean ABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md)
-* [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx)
-* [DSAG ADT Leitfaden](https://1dsag.github.io/ADT-Leitfaden/)
+[ABAP development tools info hub](https://github.com/Keller-Michael/Eclipse_ADT_info_hub) - [ABAP Starter](https://github.com/Keller-Michael/ABAP_starter) - [abapGit](https://github.com/abapGit/abapGit) - [Clean ABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md) - [abap2xlsx](https://github.com/abap2xlsx/abap2xlsx) - [DSAG ADT Leitfaden](https://1dsag.github.io/ADT-Leitfaden/)
 
 ### :link: Other profiles
 
 I'm always happy to make contacts. So feel free to contact me on the following platforms.
 
-* [LinkedIn](https://www.linkedin.com/in/michael-keller-abap-developer/)
-* [SAP Community](https://people.sap.com/keller.m)
-* [Twitter](https://twitter.com/I_heart_ABAP)
-* [Instagram](https://www.instagram.com/i_heart_abap/)
+[LinkedIn](https://www.linkedin.com/in/michael-keller-abap-developer/) - [SAP Community](https://people.sap.com/keller.m) - [Twitter](https://twitter.com/I_heart_ABAP) - [Instagram](https://www.instagram.com/i_heart_abap/)
 
 ### :bar_chart: Language overview
 
