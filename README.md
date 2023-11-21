@@ -14,7 +14,7 @@ The following projects are started by me or other people I highly value and ther
 
 I'm always happy to make contacts. So feel free to contact me on the following platforms.
 
-[LinkedIn](https://www.linkedin.com/in/michael-keller-abap-developer/) - [SAP Community](https://people.sap.com/keller.m) - [Twitter](https://twitter.com/I_heart_ABAP) - [Instagram](https://www.instagram.com/i_heart_abap/)
+[LinkedIn](https://www.linkedin.com/in/michael-keller-abap-developer/) - [SAP Community](https://people.sap.com/keller.m) - [Twitter](https://twitter.com/I_heart_ABAP)
 
 ### :bar_chart: Language overview
 
