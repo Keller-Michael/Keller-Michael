@@ -14,7 +14,7 @@ The following projects are started by me or other people I highly value and ther
 
 I'm always happy to make contacts. So feel free to contact me on the following platforms.
 
-[LinkedIn](https://www.linkedin.com/in/michael-keller-abap-developer/) - [SAP Community](https://profile.sap.com/profile/id9aaad6f005486fc219c51d653ce468eabe7e7a07b9448a444e077c8bc88f5ab2)
+[My Blog](https://michael-keller.blog) - [LinkedIn](https://www.linkedin.com/in/michael-keller-abap-developer/) - [SAP Community](https://profile.sap.com/profile/id9aaad6f005486fc219c51d653ce468eabe7e7a07b9448a444e077c8bc88f5ab2)
 
 ### :bar_chart: Language overview
 
